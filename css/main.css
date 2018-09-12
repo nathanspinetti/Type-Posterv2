@@ -1,0 +1,61 @@
+body {
+	background: url(../img/gonz-ddl-804125-unsplash.jpg) no-repeat 30% 30%;
+
+	margin: 10rem 25rem 10rem 25rem;
+  /*box-sizing:border-box; */
+}
+
+h1 {
+  margin: auto;
+	padding: 1rem 1rem 1rem 1rem;
+  text-align: center;
+  font-size: 3rem;
+  color: black;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-family: 'Alegreya', serif;
+  line-height: 1;
+}
+main {
+  padding: 1rem;
+	background-color: white;
+}
+
+main h2{
+  margin-left: 12.2rem;
+  border-top: 3px solid grey;
+padding-top: 2rem;
+border-top-style: dotted;
+display: inline-block;
+}
+
+h2 {
+	padding: 1rem 1rem 1rem 1rem;
+	text-align: center;
+  font-size: 1.5rem;
+  color: red;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-family: 'Alegreya', serif;
+  line-height: 1;
+}
+
+footer {
+	padding: .2rem .5rem .2rem .5rem;
+  color: red;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
+  line-height: 1;
+}
+a {
+  color:red;
+}
+
+main p {
+	font-size: 1rem;
+}
+
+footer p{
+	font-size: .75rem;
+}
